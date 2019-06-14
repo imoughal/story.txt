@@ -1,2 +1,2 @@
 # story.txt
-Last Git hub thing 
+love this story alot 
