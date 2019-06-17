@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-color: lightpink;
+background-image: url("https://scala.co.uk/s/wp-content/uploads/2018/03/fairytale-scala.jpg");
 }
 h1 {
   color: Black;
