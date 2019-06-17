@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -10,7 +9,7 @@ h1 {
   text-align: center;
 }
 p {
-  font-family: verdana;
+  font-family: Arial;
   font-size: 20px;
 }
 </style>
