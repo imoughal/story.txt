@@ -7,7 +7,7 @@ background-image: url("https://scala.co.uk/s/wp-content/uploads/2018/03/fairytal
 
 }
 h1 {
-  color: Black;
+  color: White;
   text-align: center;
 }
 p {
