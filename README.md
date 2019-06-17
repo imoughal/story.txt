@@ -12,7 +12,7 @@ h1 {
 }
 p {
   font-family:Times New Romanal;
-  font-size: 20px;
+  font-size: 30px;
 }
 </style>
 </head>
