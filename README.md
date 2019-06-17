@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 p {
-  font-family: Arial;
+  font-family:Times New Romanal;
   font-size: 20px;
 }
 </style>
