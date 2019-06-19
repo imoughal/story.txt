@@ -19,6 +19,10 @@ p {
 <body>
 
 <h1>Fairy Tale</h1>
+
+color: White;
+  text-align: center;
+  
 <p>Once upon a time there lived an old man up in the apalacian mountians 
 He was a grumpy old man for he had no family and was subjected to a life alone.
 The only company he had was that of a old orange hued cat.
