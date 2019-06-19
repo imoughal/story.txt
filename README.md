@@ -11,7 +11,7 @@ h1 {
   text-align: center;
 }
 p {
-  font-family:Letterpress script;
+  font-family:Script;
   font-size: 30px;
   
   color: White;
