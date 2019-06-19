@@ -13,6 +13,9 @@ h1 {
 p {
   font-family:Times New Romanal;
   font-size: 30px;
+  
+  color: White;
+  text-align: center;
 }
 </style>
 </head>
@@ -24,9 +27,6 @@ p {
 He was a grumpy old man for he had no family and was subjected to a life alone.
 The only company he had was that of a old orange hued cat.
 The cat, for it was said, was a actually a diety sent to protect the old man from a formidable evil that roamed the lands. .</p>
-
-color: White;
-  text-align: center;
   
 </body>
 </html> 
